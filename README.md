@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="35" alt="jQuery" />
-  <img src="https://echarts.apache.org/zh/images/echarts-logo.svg" height="35" alt="ECharts" />
+  <img src="https://cdn.jsdelivr.net/gh/apache/echarts-website@asf-site/zh/images/echarts-logo.svg" height="35" alt="ECharts" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="Vue.js" />
   <img src="https://img.cdn.aliyun.dcloud.net.cn/uni-app/uni-app-logo.png" height="35" alt="uniapp" />
