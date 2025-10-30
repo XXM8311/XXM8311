@@ -35,10 +35,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="35" alt="jQuery" />
-  <img src="https://cdn.jsdelivr.net/gh/apache/echarts-website@asf-site/zh/images/echarts-logo.svg" height="35" alt="ECharts" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="Vue.js" />
-  <img src="https://img.cdn.aliyun.dcloud.net.cn/uni-app/uni-app-logo.png" height="35" alt="uniapp" />
+  <img src="https://raw.githubusercontent.com/XXM8311/984507092/main/imgs/uni-app-logo.png" height="35" alt="uniapp" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="35" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="35" alt="Nuxt.js" />
