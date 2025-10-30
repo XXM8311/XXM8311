@@ -27,8 +27,4 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=XXM8311&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="60">
-
-[![GitHub 3D Contributions](https://github-contributions.vercel.app/embed?user=XXM8311)](https://github.com/bokub/github-contributions-canvas)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
