@@ -11,7 +11,9 @@
 ### 👋 About Me
 
 > I'm **Jony**, a front-end developer who loves building delightful web experiences.  
-> ✨ I enjoy writing tech blogs, sharing insights, and collaborating with other developers.
+>
+> ✨ I enjoy writing tech blogs, sharing insights, and collaborating with other developers.  
+>
 > 💬 If you’re into front-end, performance, or creative coding — let’s connect and grow together!
 
 ---
@@ -24,3 +26,5 @@
 </picture>
 
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=XXM8311&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
