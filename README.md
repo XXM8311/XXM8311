@@ -1,7 +1,7 @@
 <!-- Typing SVG 动效 -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F85D7F&width=600&lines=Hi!+I'm+Jony;Front-End+Developer+%7C+Vue+Enthusiast;Open+Source+Contributor;Glad+to+meet+you+here!"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F85D7F&width=600&lines=Hi!+I'm+Jony;Front-End+Developer;Open+Source+Contributor;Glad+to+meet+you+here!"
     alt="Typing SVG"
   />
 </p>
@@ -12,7 +12,6 @@
 
 > I'm **Jony**, a front-end developer who loves building delightful web experiences.  
 > ✨ I enjoy writing tech blogs, sharing insights, and collaborating with other developers.
->
 > 💬 If you’re into front-end, performance, or creative coding — let’s connect and grow together!
 
 ---
